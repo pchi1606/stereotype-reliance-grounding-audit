@@ -1,0 +1,35 @@
+{
+ "H2a_p": 0.0893,
+ "H2b_p": 0.3008,
+ "H3a_p": 0.0018,
+ "H3b_p": 0.4381,
+ "knn_separability": {
+  "label": 0.1019,
+  "retrieval": 0.213,
+  "forecast": 0.1111
+ },
+ "knn_chance": 0.1111,
+ "knn_human": 0.3333,
+ "mean_entropy_ratio": {
+  "label": 1.0995,
+  "retrieval": 1.2118,
+  "forecast": 1.1156
+ },
+ "median_entropy_ratio": {
+  "label": 0.9494,
+  "retrieval": 1.0095,
+  "forecast": 0.9508
+ },
+ "mean_wasserstein": {
+  "label": 0.5445,
+  "retrieval": 0.4914,
+  "forecast": 0.5168
+ },
+ "n_cells": 108,
+ "severe_flatten_frac": {
+  "label": 0.037,
+  "retrieval": 0.009,
+  "forecast": 0.019
+ },
+ "tolerance": 0.01
+}

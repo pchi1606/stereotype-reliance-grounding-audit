@@ -1,0 +1,852 @@
+[
+ {
+  "corpus_q": "Here are two statements people sometimes make when discussing the environment and economic growth. Which of them comes closer to your own point of view? A. Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs B. Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent?",
+  "gq_q": "Here are two statements people sometimes make when discussing the environment and economic growth. Which of them comes closer to your own point of view?\n\nA. Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs\n\nB. Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent",
+  "jacc": 1.0,
+  "options": [
+   "Protecting environment",
+   "Economy growth and creating jobs"
+  ],
+  "all_opts": [
+   "Protecting environment",
+   "Economy growth and creating jobs",
+   "Other answer",
+   "Don't know",
+   "No answer",
+   "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "n_cells": 9,
+  "item_id": "item01",
+  "human_dist": {
+   "Great Britain": [
+    0.6564156945917284,
+    0.34358430540827145
+   ],
+   "Germany": [
+    0.7089639115250291,
+    0.2910360884749709
+   ],
+   "Japan": [
+    0.5925925925925926,
+    0.4074074074074074
+   ],
+   "Brazil": [
+    0.6642246642246642,
+    0.3357753357753358
+   ],
+   "Mexico": [
+    0.5647668393782384,
+    0.4352331606217616
+   ],
+   "Nigeria": [
+    0.41351074718526104,
+    0.5864892528147391
+   ],
+   "Egypt": [
+    0.36647398843930634,
+    0.6335260115606935
+   ],
+   "Turkey": [
+    0.5776850886339937,
+    0.42231491136600624
+   ],
+   "Indonesia": [
+    0.7711229946524064,
+    0.2288770053475936
+   ]
+  },
+  "prompt_q": "Here are two statements people sometimes make when discussing the environment and economic growth. Which of them comes closer to your own point of view?\n\nA. Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs\n\nB. Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent"
+ },
+ {
+  "corpus_q": "How about people from other countries coming here to work. Which one of the following do you think the government should do?",
+  "gq_q": "How about people from other countries coming here to work. Which one of the following do you think the government should do?",
+  "jacc": 1.0,
+  "options": [
+   "Let anyone come who wants to",
+   "Let people come as long as there are jobs available",
+   "Place strict limits on the number of foreigners who can come here",
+   "Prohibit people coming here from other countries"
+  ],
+  "all_opts": [
+   "Let anyone come who wants to",
+   "Let people come as long as there are jobs available",
+   "Place strict limits on the number of foreigners who can come here",
+   "Prohibit people coming here from other countries",
+   "Don't know",
+   "No answer",
+   "Missing; Not available"
+  ],
+  "n_cells": 9,
+  "item_id": "item02",
+  "human_dist": {
+   "Great Britain": [
+    0.10316649642492338,
+    0.5863125638406537,
+    0.29826353421859036,
+    0.012257405515832483
+   ],
+   "Germany": [
+    0.07974816369359915,
+    0.5697796432318992,
+    0.3347324239244491,
+    0.015739769150052464
+   ],
+   "Japan": [
+    0.015957446808510637,
+    0.41914893617021276,
+    0.5563829787234043,
+    0.00851063829787234
+   ],
+   "Brazil": [
+    0.1537645811240721,
+    0.3806998939554613,
+    0.40190880169671267,
+    0.06362672322375398
+   ],
+   "Mexico": [
+    0.14343434343434341,
+    0.45353535353535357,
+    0.30606060606060603,
+    0.09696969696969697
+   ],
+   "Nigeria": [
+    0.17036290322580644,
+    0.36088709677419356,
+    0.39717741935483875,
+    0.07157258064516128
+   ],
+   "Egypt": [
+    0.09912854030501089,
+    0.21241830065359477,
+    0.599128540305011,
+    0.08932461873638342
+   ],
+   "Turkey": [
+    0.05241521068859198,
+    0.2517985611510791,
+    0.45426515930113054,
+    0.24152106885919836
+   ],
+   "Indonesia": [
+    0.07272727272727274,
+    0.12525252525252525,
+    0.6515151515151515,
+    0.1505050505050505
+   ]
+  },
+  "prompt_q": "How about people from other countries coming here to work. Which one of the following do you think the government should do?"
+ },
+ {
+  "corpus_q": "Most people consider both freedom and security to be important, but if you had to choose between them, which one would you consider more important?",
+  "gq_q": "Most people consider both freedom and security to be important, but if you had to choose between them, which one would you consider more important?",
+  "jacc": 1.0,
+  "options": [
+   "Freedom",
+   "Security"
+  ],
+  "all_opts": [
+   "Freedom",
+   "Security",
+   "Don't know",
+   "No answer",
+   "Missing; Not available"
+  ],
+  "n_cells": 9,
+  "item_id": "item03",
+  "human_dist": {
+   "Great Britain": [
+    0.5501022494887526,
+    0.4498977505112475
+   ],
+   "Germany": [
+    0.4472049689440994,
+    0.5527950310559006
+   ],
+   "Japan": [
+    0.14211076280041798,
+    0.857889237199582
+   ],
+   "Brazil": [
+    0.2533748701973001,
+    0.7466251298026999
+   ],
+   "Mexico": [
+    0.2745490981963927,
+    0.7254509018036073
+   ],
+   "Nigeria": [
+    0.28197381671701915,
+    0.7180261832829808
+   ],
+   "Egypt": [
+    0.12740141557128412,
+    0.8725985844287159
+   ],
+   "Turkey": [
+    0.39857288481141695,
+    0.601427115188583
+   ],
+   "Indonesia": [
+    0.045135406218655964,
+    0.954864593781344
+   ]
+  },
+  "prompt_q": "Most people consider both freedom and security to be important, but if you had to choose between them, which one would you consider more important?"
+ },
+ {
+  "corpus_q": "Of course, we all hope that there will not be another war, but if it were to come to that, would you be willing to fight for your country?",
+  "gq_q": "Of course, we all hope that there will not be another war, but if it were to come to that, would you be willing to fight for your country?",
+  "jacc": 1.0,
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "all_opts": [
+   "Yes",
+   "No",
+   "Don't know",
+   "No answer",
+   "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "n_cells": 9,
+  "item_id": "item04",
+  "human_dist": {
+   "Great Britain": [
+    0.6694300518134715,
+    0.3305699481865286
+   ],
+   "Germany": [
+    0.5245901639344261,
+    0.4754098360655738
+   ],
+   "Japan": [
+    0.2135922330097087,
+    0.7864077669902912
+   ],
+   "Brazil": [
+    0.4888641425389755,
+    0.5111358574610245
+   ],
+   "Mexico": [
+    0.7035897435897436,
+    0.2964102564102564
+   ],
+   "Nigeria": [
+    0.6947584789311408,
+    0.3052415210688592
+   ],
+   "Egypt": [
+    0.8954108858057631,
+    0.10458911419423693
+   ],
+   "Turkey": [
+    0.799163179916318,
+    0.20083682008368198
+   ],
+   "Indonesia": [
+    0.8709677419354839,
+    0.12903225806451613
+   ]
+  },
+  "prompt_q": "Of course, we all hope that there will not be another war, but if it were to come to that, would you be willing to fight for your country?"
+ },
+ {
+  "corpus_q": "How much respect is there for individual human rights nowadays in this country?",
+  "gq_q": "How much respect is there for individual human rights nowadays in this country?",
+  "jacc": 1.0,
+  "options": [
+   "A great deal of respect",
+   "Fairly much respect",
+   "Not much respect",
+   "No respect at all"
+  ],
+  "all_opts": [
+   "A great deal of respect",
+   "Fairly much respect",
+   "Not much respect",
+   "No respect at all",
+   "Don't know",
+   "No answer",
+   "Missing; Not available"
+  ],
+  "n_cells": 9,
+  "item_id": "item05",
+  "human_dist": {
+   "Great Britain": [
+    0.1923076923076923,
+    0.5829959514170041,
+    0.1923076923076923,
+    0.032388663967611336
+   ],
+   "Germany": [
+    0.3558467741935484,
+    0.5665322580645162,
+    0.07358870967741934,
+    0.004032258064516129
+   ],
+   "Japan": [
+    0.06900328587075574,
+    0.664841182913472,
+    0.248630887185104,
+    0.017524644030668123
+   ],
+   "Brazil": [
+    0.04437229437229437,
+    0.36688311688311687,
+    0.39826839826839827,
+    0.19047619047619052
+   ],
+   "Mexico": [
+    0.10653266331658291,
+    0.2703517587939699,
+    0.4472361809045226,
+    0.17587939698492464
+   ],
+   "Nigeria": [
+    0.12170385395537525,
+    0.30628803245436104,
+    0.3225152129817444,
+    0.2494929006085193
+   ],
+   "Egypt": [
+    0.09340659340659341,
+    0.2879120879120879,
+    0.3648351648351648,
+    0.25384615384615383
+   ],
+   "Turkey": [
+    0.16835699797160245,
+    0.4462474645030426,
+    0.2860040567951318,
+    0.09939148073022312
+   ],
+   "Indonesia": [
+    0.22052845528455284,
+    0.608739837398374,
+    0.12296747967479675,
+    0.047764227642276426
+   ]
+  },
+  "prompt_q": "How much respect is there for individual human rights nowadays in this country?"
+ },
+ {
+  "corpus_q": "How interested would you say you are in politics?",
+  "gq_q": "How interested would you say you are in politics?",
+  "jacc": 1.0,
+  "options": [
+   "Very interested",
+   "Somewhat interested",
+   "Not very interested",
+   "Not at all interested"
+  ],
+  "all_opts": [
+   "Very interested",
+   "Somewhat interested",
+   "Not very interested",
+   "Not at all interested",
+   "Don't know",
+   "No answer",
+   "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "n_cells": 9,
+  "item_id": "item06",
+  "human_dist": {
+   "Great Britain": [
+    0.16032064128256512,
+    0.40681362725450904,
+    0.251503006012024,
+    0.18136272545090182
+   ],
+   "Germany": [
+    0.3276553106212425,
+    0.4438877755511022,
+    0.15130260521042083,
+    0.07715430861723446
+   ],
+   "Japan": [
+    0.10040983606557377,
+    0.5122950819672131,
+    0.3278688524590164,
+    0.05942622950819672
+   ],
+   "Brazil": [
+    0.10964467005076142,
+    0.28527918781725886,
+    0.21319796954314718,
+    0.39187817258883245
+   ],
+   "Mexico": [
+    0.08199999999999999,
+    0.203,
+    0.406,
+    0.309
+   ],
+   "Nigeria": [
+    0.3039117352056168,
+    0.21965897693079237,
+    0.22768304914744233,
+    0.24874623871614848
+   ],
+   "Egypt": [
+    0.03517587939698493,
+    0.2542713567839196,
+    0.31959798994974875,
+    0.39095477386934674
+   ],
+   "Turkey": [
+    0.07208121827411167,
+    0.4558375634517767,
+    0.3197969543147208,
+    0.15228426395939085
+   ],
+   "Indonesia": [
+    0.0613682092555332,
+    0.24346076458752514,
+    0.45875251509054327,
+    0.2364185110663984
+   ]
+  },
+  "prompt_q": "How interested would you say you are in politics?"
+ },
+ {
+  "corpus_q": "Do you agree, disagree or neither agree nor disagree with the following statements? - When jobs are scarce, employers should give priority to people of this country over immigrants.?",
+  "gq_q": "Do you agree, disagree or neither agree nor disagree with the following statements?\n\nWhen jobs are scarce, employers should give priority to people of this country over immigrants.",
+  "jacc": 1.0,
+  "options": [
+   "Agree",
+   "Disagree",
+   "Neither agree nor disagree"
+  ],
+  "all_opts": [
+   "Agree",
+   "Disagree",
+   "Neither agree nor disagree",
+   "Don't know",
+   "No answer",
+   "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "n_cells": 9,
+  "item_id": "item07",
+  "human_dist": {
+   "Great Britain": [
+    0.3316532258064516,
+    0.45665322580645157,
+    0.21169354838709678
+   ],
+   "Germany": [
+    0.2934010152284264,
+    0.5015228426395939,
+    0.2050761421319797
+   ],
+   "Japan": [
+    0.6220145379023884,
+    0.08722741433021808,
+    0.2907580477673936
+   ],
+   "Brazil": [
+    0.6408163265306123,
+    0.22653061224489796,
+    0.1326530612244898
+   ],
+   "Mexico": [
+    0.5020161290322581,
+    0.28629032258064513,
+    0.21169354838709678
+   ],
+   "Nigeria": [
+    0.7943831494483451,
+    0.11233701103309929,
+    0.09327983951855567
+   ],
+   "Egypt": [
+    0.9746707193515703,
+    0.00911854103343465,
+    0.016210739614994932
+   ],
+   "Turkey": [
+    0.651685393258427,
+    0.15934627170582227,
+    0.18896833503575078
+   ],
+   "Indonesia": [
+    0.8568568568568569,
+    0.12912912912912913,
+    0.014014014014014012
+   ]
+  },
+  "prompt_q": "Do you agree, disagree or neither agree nor disagree with the following statements?\n\nWhen jobs are scarce, employers should give priority to people of this country over immigrants."
+ },
+ {
+  "corpus_q": "Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?",
+  "gq_q": "Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?",
+  "jacc": 1.0,
+  "options": [
+   "Most people can be trusted",
+   "Need to be very careful"
+  ],
+  "all_opts": [
+   "Most people can be trusted",
+   "Need to be very careful",
+   "Don't know",
+   "No answer",
+   "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "n_cells": 9,
+  "item_id": "item08",
+  "human_dist": {
+   "Great Britain": [
+    0.43781597573306363,
+    0.5621840242669363
+   ],
+   "Germany": [
+    0.4328824141519251,
+    0.5671175858480749
+   ],
+   "Japan": [
+    0.3558606124604013,
+    0.6441393875395987
+   ],
+   "Brazil": [
+    0.06625891946992865,
+    0.9337410805300714
+   ],
+   "Mexico": [
+    0.1051051051051051,
+    0.8948948948948949
+   ],
+   "Nigeria": [
+    0.13078470824949698,
+    0.869215291750503
+   ],
+   "Egypt": [
+    0.0732196589769308,
+    0.9267803410230693
+   ],
+   "Turkey": [
+    0.14271151885830788,
+    0.8572884811416921
+   ],
+   "Indonesia": [
+    0.04604604604604604,
+    0.9539539539539539
+   ]
+  },
+  "prompt_q": "Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?"
+ },
+ {
+  "corpus_q": "In your view, how often is : women have equal opportunities to run the office in this country's elections?",
+  "gq_q": "In your view, how often do the following things occur in this country\u2019s elections?:\n\nWomen have equal opportunities to run the office",
+  "jacc": 0.786,
+  "options": [
+   "Very often",
+   "Fairly often",
+   "Not often",
+   "Not at all often"
+  ],
+  "all_opts": [
+   "Very often",
+   "Fairly often",
+   "Not often",
+   "Not at all often",
+   "Don't know",
+   "No answer",
+   "Missing; Not available"
+  ],
+  "n_cells": 9,
+  "item_id": "item09",
+  "human_dist": {
+   "Great Britain": [
+    0.42371134020618556,
+    0.4061855670103093,
+    0.1443298969072165,
+    0.02577319587628866
+   ],
+   "Germany": [
+    0.6683831101956745,
+    0.243048403707518,
+    0.07826982492276004,
+    0.010298661174047373
+   ],
+   "Japan": [
+    0.48548199767711964,
+    0.37979094076655057,
+    0.10452961672473868,
+    0.030197444831591175
+   ],
+   "Brazil": [
+    0.281283422459893,
+    0.34866310160427805,
+    0.27593582887700535,
+    0.09411764705882353
+   ],
+   "Mexico": [
+    0.3438775510204082,
+    0.23775510204081635,
+    0.24693877551020407,
+    0.17142857142857143
+   ],
+   "Nigeria": [
+    0.21464903357070195,
+    0.37436419125127157,
+    0.28484231943031535,
+    0.12614445574771108
+   ],
+   "Egypt": [
+    0.21161290322580645,
+    0.3638709677419355,
+    0.31870967741935485,
+    0.10580645161290322
+   ],
+   "Turkey": [
+    0.37687366167023556,
+    0.3351177730192719,
+    0.2226980728051392,
+    0.06531049250535331
+   ],
+   "Indonesia": [
+    0.3495934959349593,
+    0.35670731707317077,
+    0.1991869918699187,
+    0.09451219512195123
+   ]
+  },
+  "prompt_q": "In your view, how often do the following things occur in this country\u2019s elections?:\n\nWomen have equal opportunities to run the office"
+ },
+ {
+  "item_id": "item10",
+  "corpus_q": "How often do you vote in elections: Local level?",
+  "gq_q": "Vote in elections: Local level",
+  "prompt_q": "Vote in elections: Local level",
+  "jacc": 0.8,
+  "options": [
+   "Always",
+   "Usually",
+   "Never",
+   "Not allowed to vote"
+  ],
+  "all_opts": [
+   "Always",
+   "Usually",
+   "Never",
+   "Not allowed to vote",
+   "Don't know",
+   "No answer",
+   "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "n_cells": 9,
+  "human_dist": {
+   "Great Britain": [
+    0.5100401606425703,
+    0.30823293172690763,
+    0.1636546184738956,
+    0.01807228915662651
+   ],
+   "Germany": [
+    0.6951219512195123,
+    0.1524390243902439,
+    0.09857723577235772,
+    0.05386178861788618
+   ],
+   "Japan": [
+    0.5808080808080808,
+    0.30808080808080807,
+    0.11010101010101009,
+    0.00101010101010101
+   ],
+   "Brazil": [
+    0.7471264367816092,
+    0.13793103448275865,
+    0.11494252873563218,
+    0.0
+   ],
+   "Mexico": [
+    0.6375502008032129,
+    0.2700803212851406,
+    0.0753012048192771,
+    0.01706827309236948
+   ],
+   "Nigeria": [
+    0.5191532258064516,
+    0.3245967741935484,
+    0.14213709677419353,
+    0.01411290322580645
+   ],
+   "Egypt": [
+    0.14462809917355374,
+    0.1993801652892562,
+    0.609504132231405,
+    0.04648760330578512
+   ],
+   "Turkey": [
+    0.6897253306205493,
+    0.2746693794506613,
+    0.026449643947100716,
+    0.00915564598168871
+   ],
+   "Indonesia": [
+    0.8196392785571143,
+    0.14128256513026052,
+    0.03306613226452906,
+    0.006012024048096193
+   ]
+  }
+ },
+ {
+  "corpus_q": "Do you strongly agree, agree, disagree, or strongly disagree with the following statement: 'Whenever science and religion conflict, religion is always right?",
+  "gq_q": "Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nWhenever science and religion conflict, religion is always right",
+  "jacc": 0.733,
+  "options": [
+   "Strongly agree",
+   "Agree",
+   "Disagree",
+   "Strongly disagree"
+  ],
+  "all_opts": [
+   "Strongly agree",
+   "Agree",
+   "Disagree",
+   "Strongly disagree",
+   "Don't know",
+   "No answer",
+   "Missing; Not available"
+  ],
+  "n_cells": 9,
+  "item_id": "item11",
+  "human_dist": {
+   "Great Britain": [
+    0.04811715481171548,
+    0.0700836820083682,
+    0.4424686192468619,
+    0.4393305439330544
+   ],
+   "Germany": [
+    0.03703703703703704,
+    0.06349206349206349,
+    0.3862433862433863,
+    0.5132275132275133
+   ],
+   "Japan": [
+    0.01013024602026049,
+    0.030390738060781474,
+    0.5962373371924746,
+    0.36324167872648333
+   ],
+   "Brazil": [
+    0.12808988764044943,
+    0.26179775280898876,
+    0.5067415730337079,
+    0.10337078651685393
+   ],
+   "Mexico": [
+    0.13408393039918115,
+    0.263050153531218,
+    0.4002047082906858,
+    0.20266120777891503
+   ],
+   "Nigeria": [
+    0.5819672131147541,
+    0.33196721311475413,
+    0.07069672131147542,
+    0.015368852459016393
+   ],
+   "Egypt": [
+    0.819277108433735,
+    0.17269076305220885,
+    0.008032128514056226,
+    0.0
+   ],
+   "Turkey": [
+    0.36402569593147754,
+    0.3351177730192719,
+    0.2462526766595289,
+    0.05460385438972162
+   ],
+   "Indonesia": [
+    0.41170534813319876,
+    0.39959636730575177,
+    0.16548940464177597,
+    0.02320887991927346
+   ]
+  },
+  "prompt_q": "Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:\n\nWhenever science and religion conflict, religion is always right"
+ },
+ {
+  "corpus_q": "In your view, how often are voters bribed in this country's elections?",
+  "gq_q": "In your view, how often do the following things occur in this country\u2019s elections?\n\nVoters are bribed",
+  "jacc": 0.727,
+  "options": [
+   "Very often",
+   "Fairly often",
+   "Not often",
+   "Not at all often"
+  ],
+  "all_opts": [
+   "Very often",
+   "Fairly often",
+   "Not often",
+   "Not at all often",
+   "Don't know",
+   "No answer",
+   "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "n_cells": 9,
+  "item_id": "item12",
+  "human_dist": {
+   "Great Britain": [
+    0.04403866809881847,
+    0.16219119226638024,
+    0.3984962406015038,
+    0.39527389903329757
+   ],
+   "Germany": [
+    0.016393442622950817,
+    0.08196721311475409,
+    0.28805620608899296,
+    0.613583138173302
+   ],
+   "Japan": [
+    0.052903225806451605,
+    0.367741935483871,
+    0.5006451612903225,
+    0.07870967741935483
+   ],
+   "Brazil": [
+    0.4476614699331849,
+    0.37861915367483295,
+    0.13474387527839643,
+    0.03897550111358575
+   ],
+   "Mexico": [
+    0.6149131767109296,
+    0.1654749744637385,
+    0.13074565883554648,
+    0.08886618998978547
+   ],
+   "Nigeria": [
+    0.5825641025641025,
+    0.27794871794871795,
+    0.10974358974358975,
+    0.029743589743589743
+   ],
+   "Egypt": [
+    0.39304123711340205,
+    0.24097938144329897,
+    0.2925257731958763,
+    0.07345360824742268
+   ],
+   "Turkey": [
+    0.12938596491228072,
+    0.32675438596491224,
+    0.2993421052631579,
+    0.2445175438596491
+   ],
+   "Indonesia": [
+    0.25588536335721596,
+    0.22006141248720573,
+    0.2436028659160696,
+    0.28045035823950865
+   ]
+  },
+  "prompt_q": "In your view, how often do the following things occur in this country\u2019s elections?\n\nVoters are bribed"
+ }
+]

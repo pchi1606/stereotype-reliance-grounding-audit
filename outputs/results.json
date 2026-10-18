@@ -1,0 +1,112 @@
+{
+ "n_cells": 108,
+ "countries": [
+  "Brazil",
+  "Egypt",
+  "Germany",
+  "Great Britain",
+  "Indonesia",
+  "Japan",
+  "Mexico",
+  "Nigeria",
+  "Turkey"
+ ],
+ "mean_wasserstein": {
+  "label": 0.5445331462005096,
+  "retrieval": 0.49139910891388294,
+  "forecast": 0.5168250066300357
+ },
+ "mean_entropy_ratio": {
+  "label": 1.0995340936995677,
+  "retrieval": 1.2118114242897005,
+  "forecast": 1.1156009701718286
+ },
+ "severe_flatten_frac": {
+  "label": 0.037037037037037035,
+  "retrieval": 0.009259259259259259,
+  "forecast": 0.018518518518518517
+ },
+ "H2": [
+  {
+   "name": "H2a label-vs-retrieval",
+   "n": 108,
+   "method": "paired-t",
+   "mean_diff": 0.05313403728662664,
+   "cohens_d": 0.16501743682614514,
+   "p": 0.08925624856984017,
+   "p_shapiro": 0.1681269258260727,
+   "p_holm": 0.17851249713968034,
+   "reject": false
+  },
+  {
+   "name": "H2b label-vs-forecast",
+   "n": 108,
+   "method": "paired-t",
+   "mean_diff": 0.02770813957047385,
+   "cohens_d": 0.10005002840229364,
+   "p": 0.3007996678121257,
+   "p_shapiro": 0.05762245133519173,
+   "p_holm": 0.3007996678121257,
+   "reject": false
+  }
+ ],
+ "H3": [
+  {
+   "name": "H3a retrieval-vs-label",
+   "n": 108,
+   "method": "wilcoxon",
+   "mean_diff": 0.11227733059013298,
+   "cohens_d": 0.308363805474666,
+   "p": 0.0018113923425438724,
+   "p_shapiro": 4.1897429969850464e-10,
+   "r_rank": 0.30017700494956867,
+   "reject": true
+  },
+  {
+   "name": "H3b forecast-vs-label",
+   "n": 108,
+   "method": "wilcoxon",
+   "mean_diff": 0.01606687647226066,
+   "cohens_d": 0.03891766942466999,
+   "p": 0.438091851640504,
+   "p_shapiro": 3.371962986609134e-10,
+   "r_rank": 0.07461477040145637,
+   "reject": false
+  }
+ ],
+ "knn_separability": {
+  "label": 0.10185185185185185,
+  "retrieval": 0.21296296296296297,
+  "forecast": 0.1111111111111111
+ },
+ "knn_separability_human": 0.3333333333333333,
+ "knn_chance": 0.1111111111111111,
+ "knn_n_profiles": {
+  "label": 108,
+  "retrieval": 108,
+  "forecast": 108
+ },
+ "knn_human_method": "12 synthetic respondents per country, independent draws from human marginals, rng seed 42",
+ "median_entropy_ratio": {
+  "label": 0.9494395547456296,
+  "retrieval": 1.0094981717427607,
+  "forecast": 0.9508170636071571
+ },
+ "individuation": {
+  "label": 0.9263202725724025,
+  "retrieval": 0.9439915881269113,
+  "forecast": 0.9308645917680737
+ },
+ "exaggeration": {
+  "label": 1.326530612244898,
+  "retrieval": 1.2448979591836735,
+  "forecast": 1.4693877551020407
+ },
+ "H4": {
+  "label": 0.10185185185185185,
+  "retrieval": 0.21296296296296297,
+  "forecast": 0.1111111111111111,
+  "human": 0.3333333333333333
+ },
+ "arm0_gb_match": 0.37500000000000006
+}
